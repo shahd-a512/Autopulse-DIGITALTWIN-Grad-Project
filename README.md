@@ -33,7 +33,7 @@
 - PyBaMM  
 - Gym Electric Motor  
 - HTML, CSS, JavaScript
-- 
+  
 ## 🚀 Future Work
 
 - Integration with real-time sensor data
